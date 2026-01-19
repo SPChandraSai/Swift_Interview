@@ -10,9 +10,6 @@ This project replicates a real-world payment gateway UI similar to Razorpay / Ph
 
 ![Checkout UI](./public/image.png)
 
-> ⚠️ Make sure to place the image inside  
-> `src/assets/checkout-preview.png`
-
 ---
 
 ## ✨ Features
